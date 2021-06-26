@@ -10,6 +10,7 @@ backend:
 
 media_folder: static/img
 public_folder: /img
+logo_url: https://visualpage.com/wp/wp-content/themes/visualpage-2021-v3/images/visualpage-marca-black.png
 
 collections:
   - name: "blog"
